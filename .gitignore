@@ -1,0 +1,5 @@
+# Project exclude paths
+/out/
+/VideoRecorder/.gradle/
+/VideoRecorder/build/
+/VideoRecorder/build/classes/java/main/
